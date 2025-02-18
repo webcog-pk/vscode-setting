@@ -1,0 +1,27 @@
+Name: Bearded Theme
+Id: BeardedBear.beardedtheme
+Description: The theme with a long beard.
+Version: 9.3.0
+Publisher: BeardedBear
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=BeardedBear.beardedtheme
+
+==============================================
+
+Name: Custom UI Style
+Id: subframe7536.custom-ui-style
+Description: Custom ui css style in both editor and webview, unify global font family, setup background image
+Version: 0.5.3
+Publisher: subframe7536
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=subframe7536.custom-ui-style
+
+
+==============================================
+
+Name: Material Icon Theme
+Id: PKief.material-icon-theme
+Description: Material Design Icons for Visual Studio Code
+Version: 5.19.0
+Publisher: Philipp Kief
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
+
+
