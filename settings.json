@@ -112,14 +112,14 @@
     "editor.overviewRulerBorder": false,
     "editor.hideCursorInOverviewRuler": true,
     "editor.quickSuggestions": {
-      "other": "off"
+      "other": "on"
     },
     "editor.suggestOnTriggerCharacters": false,
     "editor.tabCompletion": "on",
     "editor.snippetSuggestions": "top",
     "emmet.triggerExpansionOnTab": true,
     "update.mode": "none",
-    "extensions.ignoreRecommendations": true,
+    "extensions.ignoreRecommendations": false,
     "workbench.colorTheme": "Bearded Theme Arc Blueberry",
     "files.autoSave": "afterDelay"
   }
