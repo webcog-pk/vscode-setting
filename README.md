@@ -11,7 +11,7 @@ We welcome contributions from the community! If you'd like to contribute, please
 
 Thanks to @saifulapm for these fonts! 😊
 
-❌ DON'T USE COMMERCIALLY. [Fonts Link](https://github.com/saifulapm/my-fonts.git).
+❌ DON'T USE (Fonts) COMMERCIALLY. [Fonts Link](https://github.com/saifulapm/my-fonts.git).
 
 ## Support Us
 
