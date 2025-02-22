@@ -1,3 +1,5 @@
+![VSCODE](https://github.com/webcog-pk/vscode-setting/blob/main/vs_code_settings.png)
+
 ## Contributing
 
 We welcome contributions from the community! If you'd like to contribute, please follow these steps:
